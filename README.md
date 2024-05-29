@@ -14,7 +14,7 @@ For each class of methods, further subdivisions can be made based on lanes model
 
 "↓" represents a top-down approach, which first identifies all instances and then predicts the specific location of each lane. "Max Lanes" means predefined maximum number of lanes in advance, which can be referred to in [SCNN](https://arxiv.org/abs/1712.06080). “Dynamic kernels” denotes the method of predicting dynamic instance kernels to distinguish different instances, which can be referred to the classic instance segmentation methods [Condinst](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_17) and [SOLOv2](https://arxiv.org/abs/2003.10152).
 
-"None" indicates that the text does not clearly indicate how to distinguish instances of different lanes.
+"None" indicates that the paper does not clearly indicate how to distinguish instances of different lanes.
 
 |        Methods        |      Venue      | Title                                                        |                          Paper/Code                          | Instance Discrimination | Lane Modeling |
 | :-------------------: | :-------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | :---------------------: | :-----------: |
