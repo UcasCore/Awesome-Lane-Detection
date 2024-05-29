@@ -47,7 +47,7 @@ For each class of methods, further subdivisions can be made based on lanes model
 
 ### Object Detection-based methods
 
-"Hierarchical Query": Some methods use **Keypoints** to model lanes, but represent them in a hierarchical query to align with the DETR-based object detection paradigm. The reasons for doing so can be seen in [DAB-DETR](https://arxiv.org/abs/2201.12329), [VectorMapNet](https://arxiv.org/abs/2206.08920), and [MapTR](https://arxiv.org/abs/2208.14437).
+"Hierarchical Query": Some methods use **Keypoints** to model a lane, but represent it in a hierarchical query to align with the DETR-based object detection paradigm. The reasons for doing so can be seen in [DAB-DETR](https://arxiv.org/abs/2201.12329), [VectorMapNet](https://arxiv.org/abs/2206.08920), and [MapTR](https://arxiv.org/abs/2208.14437).
 
 |        Methods        |     Venue      | Title                                                        |                          Paper/Code                          |           Lane Modeling           |
 | :-------------------: | :------------: | ------------------------------------------------------------ | :----------------------------------------------------------: | :-------------------------------: |
