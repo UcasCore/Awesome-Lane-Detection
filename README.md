@@ -112,7 +112,7 @@ Note that although **PVALane** constructs BEV feature, BEV feature are only used
 |   **PVALane**    | **AAAI 2024**  | PVALane: Prior-Guided 3D Lane Detection with View-Agnostic Feature | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28592)/Code |     ODet      |          **3D Line Anchor**          |
 | **BézierFormer** | **ICME 2024**  | BézierFormer: A Unified Architecture for 2D and 3D Lane Detection | [Paper](https://arxiv.org/abs/2404.16304)/Code               |     ODet      |         **3D Bézier Curve **         |
 
-## Further work of Lane Detection
+## Further Works of Lane Detection
 
 The previous summaries are all monocular image based lane detection methods. These followings can be seen as further work on lane detection.
 
