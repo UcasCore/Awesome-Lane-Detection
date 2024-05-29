@@ -110,7 +110,7 @@ Note that although **PVALane** constructs BEV feature, BEV feature are only used
 |     **LATR**     | **ICCV 2023**  | LATR: 3D Lane Detection from Monocular Images with Transformer | [Paper](https://arxiv.org/abs/2308.04583)/[Code](https://github.com/JMoonr/LATR) |     ODet      | **3D Keypoints(Hierarchical Query)** |
 | **DecoupleLane** | **Arxiv 2023** | Decoupling the Curve Modeling and Pavement Regression for Lane Detection | [Paper](https://arxiv.org/abs/2309.10533)/Code               |     ODet      |            **Polynomial**            |
 |   **PVALane**    | **AAAI 2024**  | PVALane: Prior-Guided 3D Lane Detection with View-Agnostic Feature | [Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28592)/Code |     ODet      |          **3D Line Anchor**          |
-| **BézierFormer** | **ICME 2024**  | BézierFormer: A Unified Architecture for 2D and 3D Lane Detection | [Paper](https://arxiv.org/abs/2404.16304)/Code               |     ODet      |         **3D Bézier Curve **         |
+| **BézierFormer** | **ICME 2024**  | BézierFormer: A Unified Architecture for 2D and 3D Lane Detection | [Paper](https://arxiv.org/abs/2404.16304)/Code               |     ODet      |         **3D Bézier Curve**          |
 
 ## Further Works of Lane Detection
 
