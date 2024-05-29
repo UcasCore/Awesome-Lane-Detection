@@ -114,7 +114,7 @@ Note that although **PVALane** constructs BEV feature, BEV feature are only used
 
 ## Further Works of Lane Detection
 
-The previous summaries are all monocular image based lane detection methods. These followings can be seen as further work on lane detection.
+The previous summaries are all monocular image based lane detection methods. These followings can be seen as further works on lane detection.
 
 ### Multi-task Network
 
