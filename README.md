@@ -1,6 +1,6 @@
 # Awesome-Lane-Detection
 
-This repository is used for recording and tracking recent monocular lane detection methods, as a supplement to our survey which is coming soon.
+This repository is used for recording and tracking recent monocular lane detection methods, as a supplement to our survey paper which is coming soon.
 
 ## Methods of 2D Lane Detection
 
